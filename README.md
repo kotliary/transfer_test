@@ -8,3 +8,5 @@ If I fork the repo back to my account, the redirection stops working. But after 
 
 Test if I can make a commit/push from RStudio...
 Works from RStudio using either kotliary/transfer_test or niaid/transfer_test.
+
+Redirection works if the repo renamed, from kotliary/transfer_test or niaid/transfer_test to niaid/transfer_test_new.
